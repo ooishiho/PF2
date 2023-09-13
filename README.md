@@ -1,24 +1,8 @@
-# README
+# 和菓子販売ECサイトのPFです
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+内容としてはNAGANOケーキを基準に作成していきます。
+NAGANOケーキではチャレンジしなかったBootstrap以外のデザインを利用したり、PFで実装しなかった機能に挑戦していきます。
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+１、管理、顧客ようにデバイスを作成する
+２、管理側は新商品登録できるように作成
+３、管理側は顧客情報を閲覧、編集できるようにする
